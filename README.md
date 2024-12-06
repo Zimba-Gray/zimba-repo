@@ -1,2 +1,2 @@
 # zimba-repo
-the very beginning of zombi repository
+My name is Zimba and I was created under the readme-edits branch
